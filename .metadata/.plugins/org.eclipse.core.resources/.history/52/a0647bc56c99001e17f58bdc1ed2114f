@@ -1,0 +1,5 @@
+package NguyenThanhKhoa.server;
+
+public interface HocSinhServer {
+
+}

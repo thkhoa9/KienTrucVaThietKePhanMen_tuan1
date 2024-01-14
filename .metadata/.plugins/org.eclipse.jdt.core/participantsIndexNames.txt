@@ -1,0 +1,5 @@
+INDEX VERSION 1.134
+D:\ThiWWW\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2501520862.index
+\Server\src\main\java
+D:\ThiWWW\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4237797665.index
+\Client\src\main\java

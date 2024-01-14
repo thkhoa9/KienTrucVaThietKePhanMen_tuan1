@@ -1,0 +1,5 @@
+package NguyenThanhKhoa.Dao;
+
+public interface HocSinhDao {
+
+}
